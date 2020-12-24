@@ -74,7 +74,7 @@ for i in range(0,3):
                 print("Please enter 3 or 5 lessons")
         break    
     elif i==2:
-        print("Please Try Agin Later..")
+        print("Please Try Again Later..")
 
 
 
