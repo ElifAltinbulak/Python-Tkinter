@@ -1,4 +1,4 @@
-#Homework2
+#Homework_Course
 print("*******************************")
 for i in range(0,3):
     name=input("Name: ")
