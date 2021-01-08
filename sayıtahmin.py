@@ -1,6 +1,6 @@
 #Sayı Tahmin
  hak=0
-while hak<5:#hakları burda bildir
+while hak<5:
     num=int(input("Bir sayı giriniz: "))
     sn=rnd.randint(0,100)
     if num==sn:
