@@ -1,3 +1,4 @@
+#Homework_2
 import math 
 def dortgen_alan_hesapla_v1(kısakenar,uzunkenar):
     dalan = kısakenar*uzunkenar
