@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 fırst=Tk()
-fırst.title("www.yazılım.com")
+fırst.title("www.name.com")
 fırst.geometry("400x300")
 uygulama=Frame(fırst)
 uygulama.grid()
